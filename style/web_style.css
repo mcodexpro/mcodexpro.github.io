@@ -586,4 +586,8 @@ svg {
       padding: 2% 5%;
       width: 100% !important;
    }
+   
+   ::-webkit-scrollbar {
+      width: 0px;
+   }
 }
